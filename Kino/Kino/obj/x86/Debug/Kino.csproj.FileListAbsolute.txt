@@ -1,0 +1,85 @@
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Kino.exe
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Kino.pdb
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\mysql.data.dll
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\obj\x86\Debug\Film_Lista.baml
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\obj\x86\Debug\MainWindow.baml
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\obj\x86\Debug\Film_Lista.g.cs
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\obj\x86\Debug\App.g.cs
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\obj\x86\Debug\Kino_MarkupCompile.cache
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\obj\x86\Debug\Kino.g.resources
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\obj\x86\Debug\Kino.Properties.Resources.resources
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\obj\x86\Debug\Kino.csproj.GenerateResource.Cache
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\obj\x86\Debug\Kino.exe
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\obj\x86\Debug\Kino.pdb
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Resources\crna_kutija.jpg
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Resources\demoni.jpg
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Resources\dina.jpg
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Resources\ljubav_oko_svijeta.jpg
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Resources\ne_disi_2.jpg
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Resources\nesavrseni_robot_Ron.jpg
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Resources\nije_vrijeme_za_umiranje.jpg
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Resources\poslednji_dvoboj.jpg
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Resources\poslije_svega_pad.jpg
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Resources\toma.jpg
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Resources\venom_2.jpg
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Resources\vjecnici.jpg
+C:\Users\Budimir Kovacevic\Desktop\Kino\Kino\bin\Debug\Resources\luka.jpg
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\obj\x86\Debug\Kino.exe
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\obj\x86\Debug\Kino.pdb
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Resources\crna_kutija.jpg
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Resources\demoni.jpg
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Resources\dina.jpg
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Resources\ljubav_oko_svijeta.jpg
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Resources\ne_disi_2.jpg
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Resources\nesavrseni_robot_Ron.jpg
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Resources\nije_vrijeme_za_umiranje.jpg
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Resources\poslednji_dvoboj.jpg
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Resources\poslije_svega_pad.jpg
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Resources\toma.jpg
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Resources\venom_2.jpg
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Resources\vjecnici.jpg
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Resources\luka.jpg
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Kino.exe
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\Kino.pdb
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\bin\Debug\mysql.data.dll
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\obj\x86\Debug\Kino.csprojResolveAssemblyReference.cache
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\obj\x86\Debug\Film_Lista.baml
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\obj\x86\Debug\MainWindow.baml
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\obj\x86\Debug\Film_Lista.g.cs
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\obj\x86\Debug\App.g.cs
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\obj\x86\Debug\Kino_MarkupCompile.cache
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\obj\x86\Debug\Kino.g.resources
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\obj\x86\Debug\Kino.Properties.Resources.resources
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_10_28\Kino\Kino\obj\x86\Debug\Kino.csproj.GenerateResource.Cache
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_12_28\Kino\Kino\obj\x86\Debug\Kino.exe
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2021\Rokovi\TMP_2021_12_28\Kino\Kino\obj\x86\Debug\Kino.pdb
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\obj\x86\Debug\Kino.exe
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\obj\x86\Debug\Kino.pdb
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Resources\crna_kutija.jpg
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Resources\demoni.jpg
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Resources\dina.jpg
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Resources\ljubav_oko_svijeta.jpg
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Resources\ne_disi_2.jpg
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Resources\nesavrseni_robot_Ron.jpg
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Resources\nije_vrijeme_za_umiranje.jpg
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Resources\poslednji_dvoboj.jpg
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Resources\poslije_svega_pad.jpg
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Resources\toma.jpg
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Resources\venom_2.jpg
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Resources\vjecnici.jpg
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Resources\luka.jpg
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Kino.exe
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\Kino.pdb
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\bin\Debug\mysql.data.dll
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\obj\x86\Debug\Kino.csprojResolveAssemblyReference.cache
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\obj\x86\Debug\Film_Lista.baml
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\obj\x86\Debug\MainWindow.baml
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\obj\x86\Debug\Film_Lista.g.cs
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\obj\x86\Debug\App.g.cs
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\obj\x86\Debug\Kino_MarkupCompile.cache
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\obj\x86\Debug\Kino.g.resources
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\obj\x86\Debug\Kino.Properties.Resources.resources
+C:\Users\Budimir Kovacevic\Desktop\08_TMP_31.05_RentaCar\Kino\Kino\obj\x86\Debug\Kino.csproj.GenerateResource.Cache
